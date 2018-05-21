@@ -11,6 +11,7 @@ namespace MvcMovie.Controllers
     public class HomeController : Controller
     {
         // GET: /<controller>/
+		//djdj
         public IActionResult Index()
         {
             return View();
